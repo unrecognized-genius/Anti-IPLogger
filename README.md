@@ -11,6 +11,7 @@
 # Как использовать
 ***for_home1.zip***  
 >*Для дома. Блокирует IP логгеры и другие немного численные вредоносные сайты.*
+> [***Скачать***](https://github.com/unrecognized-genius/Anti-MalwareSites/raw/refs/heads/main/extensions/Anti-MalwareSites_Home1.zip)
 
 ***for_home2.zip***
 >*Для дома. Блокирует IP логгеры и более строгий по отношению к блокировке посещения вредоносных сайтов.*
