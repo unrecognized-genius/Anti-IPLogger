@@ -9,10 +9,10 @@
 *Ограничить пользователей от вредоносных сайтов и сделать так, чтобы в интернете вы чувствовали себя безопаснее.*
 ***
 # Как использовать
-[***for_home1.zip***](https://github.com/unrecognized-genius/Anti-MalwareSites/raw/refs/heads/main/extension/Anti-MalwareSites_School1.zip)  
+***for_home1.zip***
 >*Для дома. Блокирует IP логгеры и другие немного численные вредоносные сайты.*
 
-[***for_home2.zip***](https://github.com/unrecognized-genius/Anti-MalwareSites/raw/refs/heads/main/extension/Anti-MalwareSites_School2.zip)
+***for_home2.zip***
 >*Для дома. Блокирует IP логгеры и более строгий по отношению к блокировке посещения вредоносных сайтов.*
 
 ***for_school1.zip***
