@@ -15,9 +15,9 @@
 ***for_home2.zip***
 >*Для дома. Блокирует IP логгеры и более строгий по отношению к блокировке посещения вредоносных сайтов.*
 
-***for_school1.zip***
+[***for_school1.zip***](https://github.com/unrecognized-genius/Anti-MalwareSites/raw/refs/heads/main/extension/Anti-MalwareSites_School1.zip)
 >*Блокирует абсолютно все сайты, где есть возможность смотреть видео (не связанное с уроками), содержащие онлайн игры, порнографический контент, и так далее.*
 
-***for_school2.zip***
+[***for_school2.zip***](https://github.com/unrecognized-genius/Anti-MalwareSites/raw/refs/heads/main/extension/Anti-MalwareSites_School2.zip)
 >*Блокирует все сайты с ответами, также те сайты, где есть возможность смотреть видео (не связанное с уроками), содержащие онлайн игры, порнографический контент, и так далее.*
 ***
