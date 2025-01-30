@@ -126,3 +126,4 @@ help.yandex.ru
 passport.yandex.ru  
 turbo.site
 ya.ru
+yandex.com
