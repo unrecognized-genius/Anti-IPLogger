@@ -125,3 +125,4 @@ business.yandex.ru
 help.yandex.ru  
 passport.yandex.ru  
 turbo.site
+ya.ru
